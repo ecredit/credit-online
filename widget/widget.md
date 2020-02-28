@@ -15,5 +15,7 @@
 1. Авторизоваться с помощью своего токена (нажать на кнопку Authorize, в поле Value ввести публичный токен доступа и нажать кнопку Authorize и после этого закрыть данную форму)
 1. запросить метод /v1/dictionary/widget-code
 
-*Примечание:* это стандартное API Online. Данный метод можно использовать при интеграциях для автоматического получения кода виджета с заданными параметрами.
+*Примечание:* это стандартное API Online. Данный метод можно использовать при интеграциях для автоматического получения кода виджета с заданными параметрами. Например, для получения кода виджета может быть использована такая ссылка [https://test-api-online.ecredit.one/v1/dictionary/widget-code?brand=Mazda&model=CX-5&configuration=Maximal%20equipment&price=1500000&initial_fee=50&car_condition=1&year=2020&access-token=goodevening](https://test-api-online.ecredit.one/v1/dictionary/widget-code?brand=Mazda&model=CX-5&configuration=Maximal%20equipment&price=1500000&initial_fee=50&car_condition=1&year=2020&access-token=goodevening)
+
+Ссылка указана исключельно для примера. У Вас будут другие параметры! Актульальный список параметров всегда указан в сваггере.
 

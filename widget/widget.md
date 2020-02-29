@@ -15,7 +15,7 @@
 ## Код виджета и параметры
 Код виджета можно выгрузить в админке еКредита или получить код виджета самостоятельно через интерфейс swagger. Для этого необходимо знать Ваш публичный токен доступа к продуктам F&U Hub.
 
-1.  Зайти на страницу Swagger UI. [Адрес страницы swagger можно узнать здесь](https://github.com/templton/ecredit_api_online/blob/master/work_with_api/work_with_api.md)
+1.  Зайти на страницу Swagger UI. [Адрес страницы swagger можно узнать здесь](https://github.com/ecredit/ecredit_api_online/blob/master/work_with_api/work_with_api.md)
 1. Авторизоваться с помощью своего токена (нажать на кнопку Authorize, в поле Value ввести публичный токен доступа и нажать кнопку Authorize и после этого закрыть данную форму)
 1. запросить метод /v1/dictionary/widget-code
 

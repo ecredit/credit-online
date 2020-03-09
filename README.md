@@ -8,4 +8,4 @@
 
 [еКаско](ekasko/ekasko.md)
 
-[Интеграция через виджет](widget/widget.md)
+[Интеграция с помощью виджета](widget/widget.md)

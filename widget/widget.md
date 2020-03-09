@@ -27,7 +27,5 @@
 
 *Примечание:* это стандартное API Online. Данный метод можно использовать при интеграциях для автоматического получения кода виджета с заданными параметрами. Например, для получения кода виджета может быть использована такая ссылка [https://test-api-online.ecredit.one/v1/dictionary/widget-code?brand=Mazda&model=CX-5&configuration=Maximal%20equipment&price=1500000&initial_fee=50&car_condition=1&year=2020&access-token=goodevening](https://test-api-online.ecredit.one/v1/dictionary/widget-code?brand=Mazda&model=CX-5&configuration=Maximal%20equipment&price=1500000&initial_fee=50&car_condition=1&year=2020&access-token=goodevening)
 
-Ссылка указана исключельно для примера. У Вас будут другие параметры! Актуальный список параметров всегда указан в сваггере.
-
-В коде виджета описаны все возможные параметры.
+Ссылка указана исключельно для примера. У Вас будут другие параметры! Актуальный список параметров всегда указан в сваггере и на тестовой форме виджета. А так же в коде виджета описаны все возможные параметры.
 
